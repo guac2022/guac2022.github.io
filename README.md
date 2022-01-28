@@ -10,6 +10,9 @@
 <script src="js/script.js"></script>
 <link rel="icon" href="images/logo.png">
 <link rel="apple-touch-icon" href="images/logo.jpg">
+<META NAME="robots" content="index,follow">
+<META NAME="DESCRIPTION" CONTENT="学習院大学アーチェリー部新歓用ホームページです">
+<meta name="keywords" content="新歓、部活、学習院、アーチェリー">
 </head>
 
 <body id="top">
