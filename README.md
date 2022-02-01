@@ -157,7 +157,7 @@
 							<a href="https://www.facebook.com/guac.since1957/?ref=page_internal" target="_blank"><img src="images/iconFb.png" width="20" height="20" alt="FaceBook"></a>
 							<a href="https://twitter.com/guac_since1957?s=20" target="_blank"><img src="images/iconTw.png" width="20" height="20" alt="twitter"></a>
 							<a href="https://www.instagram.com/gakushuin_archery/" target="_blank"><img src="images/iconInsta.png" width="20" height="20" alt="Instagram"></a>
-							<a href="https://www.youtube.com/channel/UCuujwDhJsSv_QHss41Os6Jw/featured" target="_blank"><img src="images/iconYouTube.png" width="20" height="10" alt="You Tube"></a>
+							<a href="https://www.youtube.com/channel/UCuujwDhJsSv_QHss41Os6Jw/featured" target="_blank"><img src="images/iconYouTube.png" width="20" height="20" alt="You Tube"></a>
 						</p>
 		        <p>【JR山手線 目白駅から】徒歩8分<br>目白駅の改札を出て右に進み西門を入って、右に曲がる道を行き体育館やグランドを横目に奥まで行くと黎明会館（部室棟）があります。<br>西2号館(左手)と黎明会館(右手)の間を進み、突き当りを左に曲がり、中央教育棟・南2号館・南3号館（左手）と南1号館・南4号館・南６号館の間を道なりに大学の構内を進み、一番奥の野球場とテニス場の近くの坂を下り、馬場門のほうに抜けていきます。<br>馬場の見える門を抜けると緑色のフェンスの扉があるので、そこを抜けるとアーチェリー場です。目白駅から一番近い西門から一番遠いところにあります。</p>
 					</li>
