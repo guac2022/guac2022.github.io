@@ -58,8 +58,9 @@ h2 {
    margin: 0;
    font-size: 30px;
    font-weight: normal;
-   color: #fff;
+   color:rgba(210,210,210,1);
    text-align:center;
+   margin-top:-200px;
 }
 
 .sp-nav{
@@ -236,3 +237,4 @@ section{
 .innerS{
   margin:0 15%;
 }
+
